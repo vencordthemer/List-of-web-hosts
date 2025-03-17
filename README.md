@@ -1,18 +1,3 @@
-# 📌 List of Free Hosting Providers for Express.js & More
-
-## 🌍 General Web Hosting Platforms
-- [Vercel](https://vercel.com/) - Best for Node.js & frontend apps, supports APIs  
-- [Netlify](https://www.netlify.com/) - Great for static sites & serverless functions  
-- [Render](https://render.com/) - Free web services, databases, and static hosting  
-- [Railway](https://railway.app/) - Free tier with 500MB storage & database support  
-- [Replit](https://replit.com/) - Online coding IDE with hosting  
-- [Glitch](https://glitch.com/) - Easy for quick Node.js projects  
-
-## 🖥️ Backend-Focused Hosting (Good for Express.js)
-- [Deta](https://www.deta.sh/) - Serverless backend hosting with database  
-- [Cyclic](https://www.cyclic.sh/) - Free Express.js app hosting  
-- [Fly.io](https://fly.io/) - Run full backend apps for free  
-- [Google Cloud Run](https://cloud.google.com/run) - Serverless, free tier available  
 # 📌 Huge List of Free Hosting Providers for Express.js & More
 
 ## 📜 Table of Contents
@@ -73,4 +58,5 @@
 ---
 
 🚀 **Enjoy free hosting! Let me know if you need more info.**  
+
 
